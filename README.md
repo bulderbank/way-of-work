@@ -98,7 +98,7 @@ For dypere innsikt i hvordan vi jobber, sjekk ut:
 * Endringshåndtering – beskrivelse av hvordan vi sikrer at risiko og kvalitet er ivaretatt når vi gjør endringer rett i produksjon flere ganger om dagen.
 * Feil og læring – en samling av post‑mortems og hva vi har lært av dem.
 
-> Merk: Sørg for at disse sidene eksisterer og holdes oppdaterte. Hvis du oppdager mangler, er du velkommen til å fylle dem ut.
+> Merk: Det er viktig at disse sidene holdes oppdaterte. Hvis du oppdager mangler, send gjerne en PR.
 
 ## Anbefalt lesing
 Vi har følgende bøker tilgjengelig. Hvis du jobber i Bulder og ønsker ditt eget eksemplar, gi en lyd!
