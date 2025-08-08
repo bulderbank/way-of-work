@@ -100,8 +100,8 @@ For dypere innsikt i hvordan vi jobber, sjekk ut (krever tilgang):
 
 > Det er viktig at disse sidene holdes relevante. Hvis du oppdager feil eller mangler kan du redigere direkte!
 
-## Anbefalt lesing
-Vi leser og lærer, her er noen av bøkene som har inspirert vår Way of Work. Hvis du jobber i Bulder og ønsker ditt eget eksemplar, gi en lyd!
+## Anbefalt litteratur
+Vi leser og lærer - her er noen av bøkene som har inspirert vår Way of Work. Hvis du jobber i Bulder og ønsker ditt eget eksemplar, gi en lyd!
 
 * [The DevOps Handbook](https://itrevolution.com/product/the-devops-handbook-second-edition/) av Gene Kim, Jez Humble, Patrick Debois og John Willis – en praktisk guide til flyt, kontinuerlig forbedring og korte feedback‑loops.
 * [The Fearless Organization](https://www.wiley.com/en-us/The+Fearless+Organization%3A+Creating+Psychological+Safety+in+the+Workplace+for+Learning%2C+Innovation%2C+and+Growth-p-9781119477242) av Amy Edmondson – om psykologisk trygghet og hvordan den styrker teamkultur, samarbeid og innovasjon.
