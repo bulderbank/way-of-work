@@ -34,7 +34,7 @@ Eierskap i Bulder betyr at du og teamet ditt er ansvarlige for hele løsningen 
 * **Du jobber med korte feedback‑loops** – mål teknisk ytelse og kundeeffekt. Gjør det lett å deploye endringer og å se om de fungerer. Alarmer skal være meningsfulle og enkle å handle på. I #feedback på Slack får du kontinuerlig kundeinnsikt – det er pulsen vår.
 * **Du velger enkelhet, kvalitet og sikkerhet** – løsninger skal være enkle å forstå, vedlikeholdbare over tid og sikre fra starten av.
 
-> Et typisk scenario: Du oppdager et problem i et system teamet ditt eier. Du undersøker, finner rotårsaken og fikser den. Deretter skriver du en kort post‑mortem og deler hva du har lært. Denne kunnskapen gjør at hele Bulder blir bedre. Husk at eierskap ikke betyr at du gjør alt alene – teamet ditt og resten av Bulder står klare til å hjelpe.
+> Eksempel: Du oppdager et problem i et system teamet ditt eier. Du undersøker, finner rotårsaken og fikser den. Deretter skriver du en kort post‑mortem og deler hva du har lært. Denne kunnskapen gjør at hele Bulder blir bedre. Husk at eierskap ikke betyr at du gjør alt alene – teamet ditt og resten av Bulder står klare til å hjelpe.
 
 > Info: En feedback-loop er en prosess der vi tester noe, får tilbakemelding, og justerer oss basert på det vi lærer. Det kan være fra kunder, systemer eller kolleger. Jo kortere loopen er, desto raskere lærer vi og forbedrer oss.
 
@@ -49,7 +49,7 @@ Møtene våre er få og målrettede. Lange møter uten agenda prøver vi å unng
 * **Tydelige prioriteringer** – forstå hva som betyr mest og si nei til arbeid som ikke skaper verdi.
 * **Eierskap til prosess og verktøy** – teamene velger selv verktøy og metoder som passer deres oppgaver. Du vet best hvordan målene dine nås.
 
-> Shape Up: En syklus består av seks uker fokusert på feature‑utvikling, etterfulgt av to uker cooldown hvor du kan ta tak i teknisk gjeld eller forberede neste syklus.
+> Info: En Shape-up syklus består av seks uker fokusert på feature‑utvikling, etterfulgt av to uker cooldown hvor du kan ta tak i teknisk gjeld eller forberede neste syklus.
 
 ## Bulder‑kulturen
 Vi bygger Bulder sammen. Gode ideer oppstår ofte i uformelle samtaler ved kaffemaskinen eller ved en rask tegning på whiteboarden. Når vi er fysisk sammen, løser vi problemer raskere og bygger sterke relasjoner.
@@ -90,21 +90,22 @@ Vi er ikke her bare for å bygge banktjenester. Vi er her for å bygge noe bedre
 Still spørsmål, se på problemer med nye øyne og bidra til at Bulder blir stedet der gode ideer blir virkelighet.
 
 ## Les mer
-For dypere innsikt i hvordan vi jobber, sjekk ut:
+For dypere innsikt i hvordan vi jobber, sjekk ut (krever tilgang):
 
-* Prinsipper – detaljert oversikt over hvilke prinsipper vi verdsetter og hvordan du kan bruke dem.
-* Retningslinjer – våre interne beste praksiser for samarbeid, teknisk kvalitet og leveranse.
-* Verktøy – guider til verktøyene vi bruker daglig, inkludert Jira, Productboard og andre sentrale verktøy.
-* Endringshåndtering – beskrivelse av hvordan vi sikrer at risiko og kvalitet er ivaretatt når vi gjør endringer rett i produksjon flere ganger om dagen.
-* Feil og læring – en samling av post‑mortems og hva vi har lært av dem.
+* [Prinsipper](https://bulder.atlassian.net/wiki/spaces/BB/pages/2932146187/Prinsipper) – detaljert oversikt over hvilke prinsipper vi verdsetter og hvordan du kan bruke dem.
+* [Retningslinjer](https://bulder.atlassian.net/wiki/spaces/BB/pages/2932310030/Retningslinjer) – våre interne beste praksiser for samarbeid, teknisk kvalitet og leveranse.
+* [Verktøy](https://bulder.atlassian.net/wiki/spaces/BB/pages/2932637706/Tools) – guider til verktøyene vi bruker daglig, inkludert Jira, Productboard og andre sentrale verktøy.
+* [Endringshåndtering](https://bulder.atlassian.net/wiki/spaces/BB/pages/2868051969/Change+Management) – beskrivelse av hvordan vi sikrer at risiko og kvalitet er ivaretatt når vi gjør endringer rett i produksjon flere ganger om dagen.
+* [Feil og læring](https://bulder.atlassian.net/wiki/spaces/BB/pages/243925085/Post+Mortem) – en samling av post‑mortems og hva vi har lært av dem. Se også [Andon Cord](https://bulder.atlassian.net/wiki/spaces/BB/pages/3027337219/Andon+Cord).
 
-> Merk: Det er viktig at disse sidene holdes oppdaterte. Hvis du oppdager mangler, send gjerne en PR.
+> Det er viktig at disse sidene holdes relevante. Hvis du oppdager feil eller mangler kan du redigere direkte!
 
 ## Anbefalt lesing
-Vi har følgende bøker tilgjengelig. Hvis du jobber i Bulder og ønsker ditt eget eksemplar, gi en lyd!
+Vi leser og lærer, her er noen av bøkene som har inspirert vår Way of Work. Hvis du jobber i Bulder og ønsker ditt eget eksemplar, gi en lyd!
 
-* The DevOps Handbook av Gene Kim, Jez Humble, Patrick Debois og John Willis – en praktisk guide til flyt, kontinuerlig forbedring og korte feedback‑loops.
-* The Fearless Organization av Amy Edmondson – om psykologisk trygghet og hvordan den styrker teamkultur, samarbeid og innovasjon.
-* A Philosophy of Software Design av John Ousterhout – om hvordan vi kan redusere kompleksitet og prioritere klarhet i design av programvare.
-* The Phoenix Project av Gene Kim, Kevin Behr og George Spafford – en roman som viser hvordan DevOps‑prinsipper kan transformere organisasjoner.
-* Site Reliability Engineering av Google SRE‑teamet – om hvordan man bygger robuste, skalerbare og sikre systemer med fokus på automatisering og måling.
+* [The DevOps Handbook](https://itrevolution.com/product/the-devops-handbook-second-edition/) av Gene Kim, Jez Humble, Patrick Debois og John Willis – en praktisk guide til flyt, kontinuerlig forbedring og korte feedback‑loops.
+* [The Fearless Organization](https://www.wiley.com/en-us/The+Fearless+Organization%3A+Creating+Psychological+Safety+in+the+Workplace+for+Learning%2C+Innovation%2C+and+Growth-p-9781119477242) av Amy Edmondson – om psykologisk trygghet og hvordan den styrker teamkultur, samarbeid og innovasjon.
+* [A Philosophy of Software Design](https://www.amazon.com/Philosophy-Software-Design-John-Ousterhout/dp/1732102201/) av John Ousterhout – om hvordan vi kan redusere kompleksitet og prioritere klarhet i design av programvare.
+* [The Phoenix Project](https://itrevolution.com/product/the-phoenix-project/) av Gene Kim, Kevin Behr og George Spafford – en roman som viser hvordan DevOps‑prinsipper kan transformere organisasjoner.
+* [Site Reliability Engineering](https://www.oreilly.com/library/view/site-reliability-engineering/9781491929117/) av Google SRE‑teamet – om hvordan man bygger robuste, skalerbare og sikre systemer med fokus på automatisering og måling.
+* [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052/) av David Thomas og Andrew Hunt - hvordan utviklere kan jobbe smartere og mer bevisst ved å ta eierskap, tenke helhetlig og kontinuerlig forbedre både kode og arbeidsmåte.
