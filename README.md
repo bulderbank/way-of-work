@@ -39,7 +39,7 @@ Eierskap i Bulder betyr at du og teamet ditt er ansvarlige for hele løsningen 
 > Info: En feedback-loop er en prosess der vi tester noe, får tilbakemelding, og justerer oss basert på det vi lærer. Det kan være fra kunder, systemer eller kolleger. Jo kortere loopen er, desto raskere lærer vi og forbedrer oss.
 
 ## Arbeidshverdagen
-Vi organiserer arbeidet for å maksimere kundeverdi og skape rom for fokus. Noen team bruker Shape Up med seks uker utvikling etterfulgt av to uker cooldown. Andre foretrekker Kanban for en jevn flyt av små forbedringer. Velg det som passer best for teamet ditt, og juster når det ikke fungerer. Uavhengig av metodikk investerer vi minst 1 uke per måned på teknisk gjeld for å sikre flyt i hverdagen.
+Vi organiserer arbeidet for å maksimere kundeverdi og skape rom for fokus. Noen team bruker Shape Up med seks uker utvikling etterfulgt av to uker cooldown. Andre foretrekker Kanban for en jevn flyt av små forbedringer. Velg det som passer best for teamet ditt, og juster hvis det ikke fungerer. Uavhengig av metodikk investerer vi minst 1 uke per måned på teknisk gjeld for å sikre flyt i hverdagen.
 
 Møtene våre er få og målrettede. Lange møter uten agenda prøver vi å unngå. Læring er en del av jobben: å lese, eksperimentere med ny teknologi eller rydde opp i teknisk gjeld er like viktig som feature‑utvikling. Når vi reduserer kompleksitet frigjør vi tid til neste utfordring.
 
