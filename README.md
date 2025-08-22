@@ -57,7 +57,7 @@ Vi bygger Bulder sammen. Gode ideer oppstår ofte i uformelle samtaler ved kaffe
 Samtidig vet vi at livet skjer. Trenger du å være hjemme med et sykt barn, vente på en håndverker eller bare ha en dag med fokus? Hjemmekontor er mulig. Bruk det når du trenger det, men husk at kulturen vår er sterkest når vi møtes ansikt til ansikt. Din tilstedeværelse gjør arbeidsplassen mer engasjerende og gjør samarbeid enklere for alle.
 
 ## Prinsippene våre
-Prinsippene våre er enkle, men krever daglig praksis. De er rekkverkene som former kulturen vår.
+Prinsippene våre er enkle, men viktige for å forme kulturen vår.
 
 ### 1. Ha det kjekt på jobb
 * Skap et miljø med psykologisk trygghet der vi kan stille spørsmål, være uenige og lære av feil uten å skylde på hverandre.
